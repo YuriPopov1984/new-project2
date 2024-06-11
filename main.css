@@ -1,5 +1,4 @@
 p {
-<<<<<<< HEAD
     color:red;
 }
 
@@ -8,16 +7,5 @@ h3 {
 }
 
 button {
-    color: red;
-=======
-    color:blue;
-}
-
-h3 {
-    color: rgb(25, 86, 86);
-}
-
-button {
-    color: greenyellow;
->>>>>>> new-contacts
+    color: gold;
 }
